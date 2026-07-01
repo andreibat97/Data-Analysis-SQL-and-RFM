@@ -1,0 +1,31 @@
+item_id,name,price,stock_quantity
+IID001,Laptop Pro 15,1150.00,40
+IID002,Smartphone Elite X,1381.02,7
+IID003,Wireless Earbuds G2,1473.86,1
+IID004,Smartwatch Series 5,940.25,17
+IID005,4K Ultra Monitor,1465.79,15
+IID006,Mechanical Keyboard,1410.73,14
+IID007,Gaming Mouse RGB,705.63,8
+IID008,External SSD 1TB,910.25,6
+IID009,USB-C Multi-Hub,709.20,34
+IID010,Tablet Air 10,875.40,5
+IID011,Wireless Charger Pad,1209.10,37
+IID012,Smart Speaker AI,1209.10,27
+IID013,Graphics Card RTX,700.72,2
+IID014,High-End CPU,1382.67,1
+IID015,Pro Motherboard,534.72,5
+IID016,DDR5 RAM 32GB,1033.98,13
+IID017,Power Supply 750W,1285.04,14
+IID018,ATX PC Case,837.00,32
+IID019,Liquid Cooler RGB,1099.60,38
+IID020,Wi-Fi 6E Router,735.25,1
+IID021,Webcam UltraHD 4K,1189.70,35
+IID022,Streaming Microphone,620.40,12
+IID023,VR Headset Pro,1243.20,41
+IID024,Smart Plug Wi-Fi,672.90,34
+IID025,Smart LED Bulb,1015.45,26
+IID026,Drone Quadcopter 4K,964.10,14
+IID027,Action Camera 4K,1312.80,28
+IID028,Portable Power Bank,783.55,37
+IID029,Bluetooth Tracker,410.50,17
+IID030,HD e-Reader,856.65,0
